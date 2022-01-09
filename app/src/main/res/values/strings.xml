@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="facebook">facebook</string>
+    <string name="sign_up_with_phone">sign_up_with_phone</string>
+    <string name="google">google</string>
+    <string name="sign_up">sign_up</string>
+    <string name="already_have_acoount">already_have_acoount</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="username">username</string>
+    <string name="sign_in">Sign_in</string>
+    <string name="click_for_signup">click_for_signup</string>
+    <string name="settings">Settings</string>
+    <string name="group_chat">Group Chat</string>
+    <string name="logout">Logout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="gaurav_suyal">Gaurav Suyal</string>
+    <string name="enter_your_message">Enter Your Message</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "72486021218",
+    "project_id": "chatapp-fe655",
+    "storage_bucket": "chatapp-fe655.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72486021218:android:a794f7ae92fd4bf58bc93b",
+        "android_client_info": {
+          "package_name": "com.suyal.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72486021218-19gnq3scq79b0jr42kc0ah2igeq988v3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0B1Snm4kW8l6HbMofkNGAn8F2khExplo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72486021218-19gnq3scq79b0jr42kc0ah2igeq988v3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
